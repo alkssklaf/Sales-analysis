@@ -29,3 +29,15 @@ This project uses Python’s tools for analyzing and visualizing data to gain in
 
 - Top Selling Product: AAA Batteries (4-pack) were the highest-selling item, suggesting high consumer demand.
 
+## Requirements
+- Python 3.x (https://www.python.org/downloads/)
+- Dependencies specified in requirements.txt
+
+## Installation
+
+1. **Clone the repository**
+2. **Install dependencies:**
+    
+    ```bash
+        pip install -r requirements.txt
+    ```
